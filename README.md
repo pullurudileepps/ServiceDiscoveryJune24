@@ -1,1 +1,1 @@
-Eureka Service->API GateWay(LB) --> App Servers
+Eureka Server->API GateWay(LB) --> App Servers
